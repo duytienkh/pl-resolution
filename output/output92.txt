@@ -1,0 +1,6 @@
+4
+C OR D
+A OR C OR -D
+{}
+A OR B OR C
+YES

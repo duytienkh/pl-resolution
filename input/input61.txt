@@ -1,0 +1,9 @@
+-A OR -B OR C OR -D
+7
+-B OR D
+-B OR -C
+-A OR -C OR D
+-A
+A OR -D
+-C OR D
+-A OR -C

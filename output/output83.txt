@@ -1,0 +1,30 @@
+6
+B OR -C
+-A OR -B
+-A OR B
+-A OR -C OR -D
+-C OR -D
+-A OR -D
+6
+-A OR -C
+-C
+-A
+A OR -C OR D
+-B OR D
+A OR -B OR -C
+10
+A OR B OR -C
+A OR -C OR -D
+-B OR -C OR -D
+-B OR -C OR D
+-C OR D
+A OR -C
+-B OR -C
+B OR -C OR D
+-A OR D
+-A OR -B OR -C
+2
+-A OR B OR -C
+-A OR -C OR D
+0
+NO
